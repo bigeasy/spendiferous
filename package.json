@@ -1,0 +1,20 @@
+{ "name": "spendiferous"
+, "description": "A Node.js and HTML5 shopping cart framework."
+, "author": "Alan Gutierrez"
+, "version": "0.0.0"
+, "keywords": [ "cart", "shopping-cart", "commerce", "e-commerce", "asynchronous" ]
+, "licenses": [
+  { "type": "MIT"
+  , "url": "http://github.com/bigeasy/spendiferous/raw/master/LICENSE"
+  }]
+, "homepage": "https://github.com/bigeasy/spendiferous"
+, "repository":
+  { "type": "git"
+  , "url": "http://github.com/bigeasy/spendiferous.git"
+  }
+, "scripts" : { "test": "proof t/*/*.t.js" }
+, "devDependencies":
+  { "proof": "0.0.15"
+  }
+, "dependencies": { }
+}
